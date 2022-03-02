@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @darpal-ctl
-- 👀 I’m interested in Mobile App Development
+- 👀 I’m working with Lumen as Android Developer
 - 🌱 I’m currently learning Dart Language
-- 📫 You can reach me at darpalbhasker.dhyani@centurylink.com
+- 📫 You can reach me at darpalbhasker.dhyani@lumen.com
